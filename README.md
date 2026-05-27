@@ -26,7 +26,7 @@ without the use of Sci-kit learn or any other library.
 ## Next Steps
 - Learn to use ski-kit learn and use it for better prediction
 
-- ## Project Structure
+## Project Structure
 
 ```
 space_titanic/
