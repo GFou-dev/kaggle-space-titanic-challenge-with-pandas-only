@@ -17,7 +17,7 @@ without the use of Sci-kit learn or any other library.
 - Deck and Homeplanet are very strong transportation indicators
 - Passengers decks are divided by HomePlanet
 - Ship side is a consistent Transporation % chances increase across all decks
-- Young children are a different, independant signal
+- Young children are a different, independent signal
 
 ## Tools used
 - Python
