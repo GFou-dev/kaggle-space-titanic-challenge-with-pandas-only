@@ -25,3 +25,17 @@ without the use of Sci-kit learn or any other library.
 
 ## Next Steps
 - Learn to use ski-kit learn and use it for better prediction
+
+- ## Project Structure
+
+```
+space_titanic/
+├── space_titanic.ipynb   # Main notebook
+└── README.md             # This file
+```
+
+---
+
+## License
+
+This project is released under the MIT License.
