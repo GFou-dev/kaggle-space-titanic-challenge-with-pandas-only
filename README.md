@@ -7,7 +7,7 @@ only using pandas.
 
 ## Approach
 The goal of this notebook was to familirize with pandas and data analysis, 
-as well as trying to build a small prediction tree based on my findings, 
+as well as trying to build a small scoring system based on my findings, in order to predict the result
 without the use of Sci-kit learn or any other library.
 
 ## Key Findings
